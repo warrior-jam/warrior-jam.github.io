@@ -17,5 +17,5 @@ The Home Page will welcome the user to the WarriorJam website and will give the 
 
 The user will then be taken to a page where they must fill a form, where the user indicates their musical interests and goals. 
 
-
+![](images/signin-page.png)
 
