@@ -11,9 +11,11 @@ WarriorJam is a web application that will help UH students have their musical ta
 
 # Mockup Pages 
 ## Home Page 
-The Home Page will welcome the user to the WarriorJam website and will give the option for the user to look for a band to join or look for band members:  
+The Home Page will welcome the user to the WarriorJam website and will give the option for the user to look for a band to join or look for band members. Also the user has the option to log in to an existing profile or create an account:  
 
 ![](images/home-page.png)
+
+The user will then be taken to a page where they must fill a form, where the user indicates their musical interests and goals. 
 
 
 
