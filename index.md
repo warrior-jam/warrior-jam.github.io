@@ -1,7 +1,7 @@
 # Group Members 
 - Joseph Paragas
 - Louella Caraang 
-- Ryan Gaoiran 
+- Ryan Ganiron 
 - Daphne Tapia 
 
 # Overview 
