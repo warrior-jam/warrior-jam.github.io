@@ -1,5 +1,13 @@
+# Group Members 
+- Joseph Paragas
+- Louella Caraang 
+- Ryan Gaoiran 
+- Daphne Tapia 
+
 # Overview 
-WarriorJam is a web application that will help UH students have their musical talents, and interests be discovered by other people with similar interests. The app will give the user the opportunity to share their music content (YouTube, Soundclout, etc.) WarriorJam can also be used to help a musician find a band that is suitable for them.  
+Problem: Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
+
+Solution: WarriorJam is a web application that will help UH students have their musical talents, and interests be discovered by other people with similar interests. The app will give the user the opportunity to share their music content (YouTube, Soundclout, etc.) WarriorJam can also be used to help a musician find a band that is suitable for them.  
 
 # Goals of the Project
 - Gain experience by working on a web application team
