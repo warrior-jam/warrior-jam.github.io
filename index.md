@@ -36,6 +36,9 @@ The user will then be able to customize their profile. Components of the profile
 - ![](images/editProfile.png)
 
 # Search Musician Page
-The user will be able to search for musicians of their choosing.
+The user will be able to search for musicians of their choosing. Users could edit their search by:
+- Name
+- Instrument
+- Genre
 
 ![](images/searchPage.png)
