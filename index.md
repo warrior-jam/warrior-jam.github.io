@@ -33,4 +33,9 @@ The user will then be able to customize their profile. Components of the profile
 - Name
 - Bio 
 - Links to music content (Youtube, Soundcloud, etc.)
-- ![](images/profiles-page.png)
+- ![](images/editProfile.png)
+
+# Search Musician Page
+The user will be able to search for musicians of their choosing.
+
+![](images/searchPage.png)
