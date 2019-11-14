@@ -42,3 +42,6 @@ The user will be able to search for musicians of their choosing. Users could edi
 - Genre
 
 ![](images/searchPage.png)
+
+# Additional Goals
+- Ad page for users to add specific types of musicians or possibly future bandmates.
