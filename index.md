@@ -28,20 +28,17 @@ The user will then be taken to a page where they must fill a form, where the use
 
 ![](images/logInPage.png)
 
-# Edit Profile Page
+# Profile Page
 The user will then be able to customize their profile. Components of the profile include: 
 - Name
 - Bio 
 - Links to music content (Youtube, Soundcloud, etc.)
-- ![](images/editProfile.png)
+- ![](images/Profile.png)
 
-# Search Musician Page
-The user will be able to search for musicians of their choosing. Users could edit their search by:
-- Name
-- Instrument
-- Genre
+# Browse Musicians Page
+The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill(guitar, vocals, etc) or genre:
 
-![](images/searchPage.png)
+![](images/BrowseMusicians.png)
 
 # Additional Goals
 - Ad page for users to add specific types of musicians or possibly future bandmates.
