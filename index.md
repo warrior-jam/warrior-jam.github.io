@@ -29,16 +29,27 @@ The user will then be taken to a page where they must fill a form, where the use
 ![](images/logInPage.png)
 
 # Profile Page
-The user will then be able to customize their profile. Components of the profile include: 
+The user will then be able to customize and update their profile. Components of the profile include: 
 - Name
 - Bio 
-- Links to music content (Youtube, Soundcloud, etc.)
+- Links to musical projects(Youtube, Soundcloud, etc.)
+- Skills (guitar, vocals, etc.)
+- Genres 
+- Events they plan on attending
 - ![](images/Profile.png)
 
 # Browse Musicians Page
-The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill(guitar, vocals, etc) or genre:
+The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill or genre:
 
 ![](images/BrowseMusicians.png)
 
-# Additional Goals
-- Ad page for users to add specific types of musicians or possibly future bandmates.
+# Browse Events Page
+The user will be able to browse musical events happening in the UH community. Users can filter their search by a specific genre or participants:
+
+![](images/BrowseEvents.png)
+
+# Add Event Page
+The user is also able to post about an upcoming event such as informal jam sessions or band member auditions.
+
+![](images/AddEvent.png)
+
