@@ -15,6 +15,7 @@
 
 # Galaxy page
 [https://galaxy.meteor.com/app/warriorjam.meteorapp.com](https://galaxy.meteor.com/app/warriorjam.meteorapp.com)
+
 [WarriorJam](http://warriorjam.meteorapp.com/#/)
 
 # Overview 
