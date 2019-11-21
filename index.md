@@ -20,14 +20,16 @@ Solution: WarriorJam is a web application that will help UH students have their 
 
 # Mockup Pages 
 ## Home Page 
-The Home Page will welcome the user to the WarriorJam website and will give the option for the user to look for a band to join or look for band members. Also the user has the option to log in to an existing profile or create an account:  
+The Home Page will welcome the user and provide an overview of the WarriorJam website. The user has the option to log in to an existing profile or create an account:  
 
-![](images/home-page.png)
+![](images/LandingPage.png)
 
-# Sign-In / Create Profile Page
-The user will then be taken to a page where they must fill a form, where the user indicates their musical interests and goals. 
+# Sign-In / Sign-Up Pages
+Upon clicking the log in button, the user is prompted to enter their UH email and password credentials. The site is dedicated to the UH community and the user must provide a valid UH email when registering.
 
-![](images/logInPage.png)
+![](images/SignIn.png)
+
+![](images/SignUp.png)
 
 # Profile Page
 The user will then be able to customize and update their profile. Components of the profile include: 
