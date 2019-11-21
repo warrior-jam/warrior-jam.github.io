@@ -7,6 +7,12 @@
 # Organization Page: 
 https://github.com/warrior-jam
 
+# Milestone 1: 
+https://github.com/orgs/warrior-jam/projects/1 
+
+# Milestone 2: 
+https://github.com/orgs/warrior-jam/projects/2
+
 # Overview 
 Problem: Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
 
