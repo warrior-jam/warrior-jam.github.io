@@ -5,7 +5,7 @@
 - Daphne Tapia 
 
 # Organization Page: 
-https://github.com/warrior-jam
+[https://github.com/warrior-jam](https://github.com/warrior-jam)
 
 # Milestone 1: 
 https://github.com/orgs/warrior-jam/projects/1
