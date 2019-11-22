@@ -8,10 +8,10 @@
 [https://github.com/warrior-jam](https://github.com/warrior-jam)
 
 # Milestone 1: 
-[https://github.com/orgs/warrior-jam/warrior-jam/projects/1](https://github.com/orgs/warrior-jam/warrior-jam/projects/1)
+[https://github.com/warrior-jam/warrior-jam/projects/1](https://github.com/orgs/warrior-jam/warrior-jam/projects/1)
 
 # Milestone 2: 
-[https://github.com/orgs/warrior-jam/warrior-jam/projects/2](https://github.com/orgs/warrior-jam/warrior-jam/projects/2)
+[https://github.com/warrior-jam/warrior-jam/projects/2](https://github.com/orgs/warrior-jam/warrior-jam/projects/2)
 
 # Galaxy page
 [https://galaxy.meteor.com/app/warriorjam.meteorapp.com](https://galaxy.meteor.com/app/warriorjam.meteorapp.com)
