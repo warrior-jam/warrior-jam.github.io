@@ -4,19 +4,11 @@
 - Ryan Ganiron 
 - Daphne Tapia 
 
-# Organization Page: 
-[https://github.com/warrior-jam](https://github.com/warrior-jam)
-
-# Milestone 1: 
-[https://github.com/warrior-jam/warrior-jam/projects/1](https://github.com/warrior-jam/warrior-jam/projects/1)
-
-# Milestone 2: 
-[https://github.com/warrior-jam/warrior-jam/projects/2](https://github.com/warrior-jam/warrior-jam/projects/2)
-
-# Galaxy page
-[https://galaxy.meteor.com/app/warriorjam.meteorapp.com](https://galaxy.meteor.com/app/warriorjam.meteorapp.com)
-
-[WarriorJam](http://warriorjam.meteorapp.com/#/)
+# Links
+[Organization Page on GitHub](https://github.com/warrior-jam)
+[Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
+[Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
+[WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
 
 # Overview 
 Problem: Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
