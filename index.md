@@ -6,8 +6,11 @@
 
 # Links
 [Organization Page on GitHub](https://github.com/warrior-jam)
+
 [Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
+
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
+
 [WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
 
 # Overview 
