@@ -36,7 +36,7 @@ Upon clicking the log in button, the user is prompted to enter their UH email an
 
 ![](images/SignInPage.png)
 
-![](images/SignUp.png)
+![](images/CreateAnAccount.png)
 
 # Profile Page
 The user will then be able to customize and update their profile. Components of the profile include: 
