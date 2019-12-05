@@ -11,6 +11,8 @@
 
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
 
+[Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
+
 [WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
 
 # Overview 
