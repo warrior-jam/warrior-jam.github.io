@@ -11,8 +11,6 @@
 
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
 
-[Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
-
 [WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
 
 # Overview 
@@ -59,7 +57,7 @@ The user will then be able to customize and update their profile. Components of 
 # Browse Musicians Page
 The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill or genre:
 
-![](images/Musicians.png)
+![](images/BrowseMusiciansPage.png)
 
 # Events Page
 The user will be able to browse musical events happening in the UH community. Users can filter their search by a specific genre or participants. The user is also able to post about an upcoming event such as informal jam sessions or band member auditions.
