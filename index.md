@@ -29,7 +29,7 @@ member of a band like Coldplay, Pink Floyd, Queen, and many more.
 ## Home Page 
 The Home Page will welcome the user and provide an overview of the WarriorJam website. The user has the option to log in to an existing profile or create an account:  
 
-![](images/LandingPage.png)
+![](images/HomePage.png)
 
 # Sign-In / Sign-Up Pages
 Upon clicking the log in button, the user is prompted to enter their UH email and password credentials. The site is dedicated to the UH community and the user must provide a valid UH email when registering.
