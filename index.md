@@ -25,7 +25,7 @@ the opportunity to share your music content (YouTube, SoundCloud, etc.) By using
 find and meet different people who have the same goals as you do. Who knows? You could be the next
 member of a band like Coldplay, Pink Floyd, Queen, and many more. 
 
-# Mockup Pages 
+# User Guide 
 ## Home Page 
 The Home Page will welcome the user and provide an overview of the WarriorJam website. The user has the option to log in to an existing profile or create an account:  
 
