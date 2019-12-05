@@ -47,7 +47,7 @@ The user will then be able to customize and update their profile. Components of 
 - Genres 
 - Events they plan on attending
 
-![](images/Profile.png)
+![](images/ProfilePage.png)
 
 # Browse Musicians Page
 The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill or genre:
