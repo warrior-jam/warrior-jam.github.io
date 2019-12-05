@@ -52,7 +52,7 @@ The user will then be able to customize and update their profile. Components of 
 # Browse Musicians Page
 The user will be able to browse the profiles of other musicians. Users can filter their search by a particular skill or genre:
 
-![](images/BrowseMusicians.png)
+![](images/BrowseMusiciansPage.png)
 
 # Browse Events Page
 The user will be able to browse musical events happening in the UH community. Users can filter their search by a specific genre or participants:
