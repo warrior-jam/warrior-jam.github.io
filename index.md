@@ -25,15 +25,6 @@ the opportunity to share your music content (YouTube, SoundCloud, etc.) By using
 find and meet different people who have the same goals as you do. Who knows? You could be the next
 member of a band like Coldplay, Pink Floyd, Queen, and many more. 
 
-# Goals of the Project
-- Gain experience by working on a web application team
-- Gain experience in website development 
-
-# Goals of the App
-- Connect students to other musicians in the UH community whether for informal jam sessions or performing bands
-- Help starting musicians get their content out to the public
-- This app should provide a way for students to be discovered and to eventually help them achieve musical goals 
-
 # Mockup Pages 
 ## Home Page 
 The Home Page will welcome the user and provide an overview of the WarriorJam website. The user has the option to log in to an existing profile or create an account:  
