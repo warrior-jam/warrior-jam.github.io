@@ -54,13 +54,9 @@ The user will be able to browse the profiles of other musicians. Users can filte
 
 ![](images/BrowseMusiciansPage.png)
 
-# Browse Events Page
-The user will be able to browse musical events happening in the UH community. Users can filter their search by a specific genre or participants:
+# Events Page
+The user will be able to browse musical events happening in the UH community. Users can filter their search by a specific genre or participants. The user is also able to post about an upcoming event such as informal jam sessions or band member auditions.
 
-![](images/BrowseEvents.png)
+![](images/Events.png)
 
-# Add Event Page
-The user is also able to post about an upcoming event such as informal jam sessions or band member auditions.
-
-![](images/AddEvent.png)
 
