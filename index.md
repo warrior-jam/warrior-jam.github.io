@@ -4,8 +4,7 @@
 - Ryan Ganiron 
 - Daphne Tapia 
 
-# Links
-[Organization Page on GitHub](https://github.com/warrior-jam)
+# Project Milestones
 
 [Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
 
@@ -23,21 +22,22 @@ member of a band like Coldplay, Pink Floyd, Queen, and many more.
 [WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
 
 # Developers Guide 
-1. Clone the [WarriorJam App](https://github.com/warrior-jam/warrior-jam) repository
-2. On the command line run:
+1. Go to the [Organization Page on GitHub](https://github.com/warrior-jam)
+2. Clone the [WarriorJam App](https://github.com/warrior-jam/warrior-jam) repository
+3. On the command line run:
 
 ```
 $ meteor npm install
 ``` 
 to install dependencies 
 
-3. To build the website run: 
+4. To build the website run: 
 
 ```
 $ meteor npm run start
 ``` 
 
-4. The website should appear at (http://localhost:3000/)
+5. The website should appear at (http://localhost:3000/)
 
 # User Guide 
 ## Home Page 
