@@ -13,25 +13,31 @@
 
 [Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
 
-[WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
-
-# Overview 
-Music has always been an one of the best ways to relieve stress and the university life is surely
-stressful. A lot of UH students also have musical talents, but there is no easy way for them to find
-others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of 
-informal jam sessions which could progress into performing musical groups. 
-
+# About WarriorJam
 WarriorJam is a web application that will help UH students (and staff) have their musical talents,
 and interests be discovered by other people with similar interests. The app will give you
 the opportunity to share your music content (YouTube, SoundCloud, etc.) By using our website, you can
 find and meet different people who have the same goals as you do. Who knows? You could be the next
 member of a band like Coldplay, Pink Floyd, Queen, and many more. 
 
-# Developer Guide 
-1) Clone the Repository
-2) Run npm install to install dependencies 
-3) Run npm run start to build
-4) Deploy via Galaxy
+[WarriorJam on Galaxy](http://warriorjam.meteorapp.com/#/)
+
+# Developers Guide 
+1. Clone the [WarriorJam App](https://github.com/warrior-jam/warrior-jam) repository
+2. On the command line run:
+
+```
+$ meteor npm install
+``` 
+to install dependencies 
+
+3. To build the website run: 
+
+```
+$ meteor npm run start
+``` 
+
+4. Deploy via Galaxy
 
 # User Guide 
 ## Home Page 
