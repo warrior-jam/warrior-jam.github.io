@@ -24,19 +24,8 @@ member of a band like Coldplay, Pink Floyd, Queen, and many more.
 # Developers Guide 
 1. Go to the [Organization Page on GitHub](https://github.com/warrior-jam)
 2. Clone the [WarriorJam App](https://github.com/warrior-jam/warrior-jam) repository
-3. On the command line run:
-
-```
-$ meteor npm install
-``` 
-to install dependencies 
-
-4. To build the website run: 
-
-```
-$ meteor npm run start
-``` 
-
+3. Change to the app directory and on the command line run ```$ meteor npm install ```to install dependencies 
+4. To run website run ``` $ meteor npm run start``` 
 5. The website should appear at (http://localhost:3000/)
 
 # User Guide 
