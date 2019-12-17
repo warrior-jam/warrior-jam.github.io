@@ -4,14 +4,6 @@
 - Ryan Ganiron 
 - Daphne Tapia 
 
-# Project Milestones
-
-[Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
-
-[Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
-
-[Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
-
 # About WarriorJam
 WarriorJam is a web application that will help UH students (and staff) have their musical talents,
 and interests be discovered by other people with similar interests. The app will give you
@@ -67,4 +59,10 @@ The user will be able to browse musical events happening in the UH community. Us
 
 ![](images/Events.png)
 
+# Project Milestones
 
+[Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
+
+[Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
+
+[Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
