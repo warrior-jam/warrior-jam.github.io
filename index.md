@@ -37,7 +37,7 @@ to install dependencies
 $ meteor npm run start
 ``` 
 
-4. Deploy via Galaxy
+4. The website should appear at (http://localhost:3000/)
 
 # User Guide 
 ## Home Page 
