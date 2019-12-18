@@ -68,7 +68,10 @@ For Milestone 1, our goal was to lay the groundwork for the project. During this
 
 [Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
 
-## Milestone 2
+## Milestone 2: Creating website pages
+For Milestone 2, we were able to create the pages from our mockups in Milestone 1. We also were able to route the pages so that way you could navagate through the website:
+
+<img width="500px" src="images/SignInPage.png"/>
 
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
 
