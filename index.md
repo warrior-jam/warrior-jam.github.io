@@ -112,6 +112,8 @@ Profile page:
 # Community Feedback 
 
 ## How was your experience with Warrior Jam?
+<img width="500px" src="images/response-1.png"/>
+As of 11:29 pm
 
 ## What were some things you liked about our website?
 1. Very personal
