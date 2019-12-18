@@ -79,6 +79,12 @@ Musicians Page:
 
 <img width="500px" src="images/Musicians.png"/>
 
+Events Page:
+
+<img width="500px" src="images/Events.png"/>
+
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
+
+## Milestone 3: Finished Product
 
 [Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
