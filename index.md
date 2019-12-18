@@ -87,4 +87,42 @@ Events Page:
 
 ## Milestone 3: Finished Product
 
+Updated Events Page:
+
+<img width="500px" src="images/Browse-Events.png"/>
+
+Updated Browse Musicians Page: 
+
+<img width="500px" src="images/Browse-Musicians-2.png"/>
+
+Add Events Page:
+
+<img width="500px" src="images/Add-Event.png"/>
+
+Browse Open Mic Events Page:
+
+<img width="500px" src="images/Browse-Open-Mics.png"/>
+
+Profile page:
+
+<img width="500px" src="images/Profile-page.png"/>
+
 [Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
+
+# Community Feedback 
+
+## How was your experience with Warrior Jam?
+
+## What were some things you liked about our website?
+1. Very personal
+2. It’s so easy to use
+
+## Are there ways that we can improve our website?
+1. Direct link to signing up
+2. I think it’s a great site
+
+## Additional Comments
+1. (none)
+2. (none)
+
+We know we still have to make some improvements, so if you have time to test our app out, please do so and give us a feedback at <a href="https://forms.gle/shxVJxYQmb4zj8fi9">Warrior Jam App Review</a>. Mahalo!
