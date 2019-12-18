@@ -60,11 +60,15 @@ The user will be able to browse musical events happening in the UH community. Us
 ![](images/Events.png)
 
 # Project Milestones
-For Milestone 1, our goal was to lay the groundwork for the project. During this time we created mockup pages of our sign in/sign out pages and also created our Landing Page.
+
+## Milestone 1
+For Milestone 1, our goal was to lay the groundwork for the project. During this time we created mockup pages of our sign in/sign out pages and also created our Landing Page:
 
 <img width="500px" src="images/HomePage.png"/>
 
 [Milestone 1 Project Board](https://github.com/warrior-jam/warrior-jam/projects/1)
+
+## Milestone 2
 
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
 
