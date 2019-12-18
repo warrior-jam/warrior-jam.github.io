@@ -75,6 +75,10 @@ Sign-In Page:
 
 <img width="500px" src="images/SignInPage.png"/>
 
+Musicians Page:
+
+<img width="500px" src="images/Musicians.png"/>
+
 [Milestone 2 Project Board](https://github.com/warrior-jam/warrior-jam/projects/2)
 
 [Milestone 3 Project Board](https://github.com/warrior-jam/warrior-jam/projects/3)
