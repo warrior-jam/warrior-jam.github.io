@@ -29,7 +29,7 @@ The Home Page will welcome the user and provide an overview of the WarriorJam we
 # About Page
 The About Page simply explains the objective of the WarriorJam application:
 
-![](images/About.png)
+![](images/About2.png)
 
 # Sign-In / Sign-Up Pages
 Upon clicking the log in button, the user is prompted to enter their UH email and password credentials. The site is dedicated to the UH community and the user must provide a valid UH email when registering.
